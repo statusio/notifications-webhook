@@ -1,0 +1,16 @@
+{
+  "datetime":"2015-04-03T18:38:57.326Z",
+  "current_status":"Planned Maintenance",
+  "components":[
+    {"name":"Chat Service",
+    "_id":"551ed627b556f14210000005"}
+  ],
+  "containers":[
+    {"name":"US East",
+    "_id":"551ed5ac590f5a3b10000006"},
+    {"name":"US West",
+    "_id":"551ed5b1c9f9404110000005"}
+  ],
+  "details":"We've completed upgrades for all US East servers. No issues so far. Moving on to US West next. Updates to follow.",
+  "status_page_url":"https://status.io/pages/5516e01e2e55e4e917000005"
+}
