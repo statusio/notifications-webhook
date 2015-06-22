@@ -12,5 +12,6 @@
     "_id":"551ed5b1c9f9404110000005"}
   ],
   "details":"We've completed upgrades for all US East servers. No issues so far. Moving on to US West next. Updates to follow.",
+  "maintenance_url":"https://status.io/pages/maintenance/5516e01e2e55e4e917000005/5116e01e2e33e4e413000001",
   "status_page_url":"https://status.io/pages/5516e01e2e55e4e917000005"
 }

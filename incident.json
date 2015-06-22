@@ -20,5 +20,6 @@
     "_id":"551ed5d3590f5a3b10000008"}
   ],
   "details":"A database instance has become unhealthy and removed from the cluster. Europe based endpoints will continue experiencing higher than normal latency until a new instance is fired up. Updates to follow.",
+  "incident_url":"https://status.io/pages/incident/5516e01e2e55e4e917000005/5116e01e2e33e4e413000001",
   "status_page_url":"https://status.io/pages/5516e01e2e55e4e917000005"
 }
