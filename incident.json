@@ -1,10 +1,19 @@
 {
   "id":"551edb8331a9664b11000005",
+  "message_id":"531adb8331a9553b11000008",
+  "title":"Database Issues",
   "datetime":"2015-04-03T18:27:15.344Z",
   "current_status":"Degraded Performance",
   "current_state":"Identified",
   "previous_status":"",
   "previous_state":"",
+  "infrastructure_affected":[
+    {"component":"551ed627b556f14210000005", "container":"5516e01e2e55e4e917000014"},
+    {"component":"551ed627b556f14210000005", "container":"551ed5d3590f5a3b10000008"},
+    {"component":"551ed5f5590f5a3b10000009", "container":"551ed5d3590f5a3b10000008"},
+    {"component":"5516e01e2e55e4e917000015", "container":"5516e01e2e55e4e917000014"},
+    {"component":"5516e01e2e55e4e917000015", "container":"551ed5d3590f5a3b10000008"}
+  ],
   "components":[
     {"name":"Chat Service",
     "_id":"551ed627b556f14210000005"},

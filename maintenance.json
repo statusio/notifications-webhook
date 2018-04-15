@@ -1,6 +1,13 @@
 {
+  "id":"552adb8331a9553b11000008",
+  "message_id":"542adb8331a9553b11000008",
+  "title":"Server Upgrades",
   "datetime":"2015-04-03T18:38:57.326Z",
   "current_status":"Planned Maintenance",
+  "infrastructure_affected":[
+    {"component":"551ed627b556f14210000005", "container":"551ed5ac590f5a3b10000006"},
+    {"component":"551ed627b556f14210000005", "container":"551ed5b1c9f9404110000005"}
+  ],
   "components":[
     {"name":"Chat Service",
     "_id":"551ed627b556f14210000005"}
